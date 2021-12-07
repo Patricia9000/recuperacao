@@ -33,7 +33,36 @@ export default function home() {
                 </div>
 
                 <div className="tabela">
-                    Tabela aqui!
+                    <table class ="table-user">
+                        <thead>
+                            <tr>
+                                <th > ID </th>
+                                <th> Nome </th>
+                            </tr>
+                        </thead>
+                
+                        <tbody>
+                            <tr >
+                                <td> 1 </td>
+                                <td> Nicole Linda </td>
+                            </tr>
+
+                            <tr >
+                                <td> 2 </td>
+                                <td> Nicole Maravilhosa </td>
+                            </tr>
+
+                            <tr >
+                                <td> 3 </td>
+                                <td> Nicole Perfeita </td>
+                            </tr>
+
+                            <tr >
+                                <td> 4 </td>
+                                <td> Nicole Tudo de Bom no Universo </td>
+                            </tr>
+                        </tbody> 
+                    </table>
                 </div>
             </div>
         </Div>

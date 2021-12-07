@@ -8,6 +8,7 @@ const Div = styled.div`
     .titulo {
         font-size: 30px;
         font-weight: bolder;
+        color: #1B0036;
     }
 
     .row {
@@ -47,7 +48,32 @@ const Div = styled.div`
     }
 
     .botao button:hover {
-        background-color: #d9d9d9;
+        background-color: #C6B1E3;
+    }
+
+
+    thead {
+        background-color: #1B0036;
+        color: white;
+        font-size: 25px;
+    }
+
+    th {
+        padding: 5px 10px;
+
+        border-radius: 4px;
+    }
+
+    tbody {
+        background-color: #C6B1E3;
+
+        font-size: 19px;
+    }
+
+    td {
+        padding: 5px;
+
+        border-radius: 4px;
     }
 `;
 
