@@ -22,15 +22,20 @@ const Div = styled.div`
 
     .texto {
         font-size: 20px;
+        color: #1B0036;
+
         margin-right: 8px;
     }
 
     .input input {
         padding: 5px;
 
+        color: #1B0036;
+
         outline: none;
         border-radius: 5px;
         border-width: 1px;
+        border-color: #1B0036;
 
         width: 407px;
     }
@@ -41,6 +46,9 @@ const Div = styled.div`
 
         border-width: 1px;
         border-radius: 5px;
+        border-color: #1B0036;
+
+        color: #1B0036;
 
         background-color: white;
 
