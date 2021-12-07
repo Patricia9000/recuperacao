@@ -61,6 +61,11 @@ export default function home() {
                                 <td> 4 </td>
                                 <td> Nicole Tudo de Bom no Universo </td>
                             </tr>
+
+                            <tr >
+                                <td> 5 </td>
+                                <td> Vai por favor </td>
+                            </tr>
                         </tbody> 
                     </table>
                 </div>
